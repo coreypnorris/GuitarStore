@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: GuitarStore_development
+
+test:
+  adapter: postgresql
+  database: GuitarStore_test
